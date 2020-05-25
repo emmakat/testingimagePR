@@ -1,2 +1,2 @@
 testing image PR
-![lsscsi.png](lsscsi)  
+![lsscsi.png](screenshots/lsscsi.png)  
