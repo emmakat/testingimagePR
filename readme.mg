@@ -1,2 +1,2 @@
 testing image PR changes
-![lsscsi.png](screenshots/lsscsi.png)  
+![lsscsi.png](https://github.com/emmakat/testingimagePR/blob/screenshots/screenshots/lsscsi.png)  
